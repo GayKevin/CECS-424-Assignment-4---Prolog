@@ -1,0 +1,2 @@
+consult(star_tricked.pl).
+solve.

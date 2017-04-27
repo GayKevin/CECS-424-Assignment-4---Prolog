@@ -1,0 +1,2 @@
+consult(imaginary_friend.pl).
+solve.
