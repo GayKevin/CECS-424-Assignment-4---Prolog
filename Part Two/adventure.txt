@@ -1,0 +1,6 @@
+consult(adventure.pl).
+take(key).
+n.
+take(gas).
+s.
+s.
